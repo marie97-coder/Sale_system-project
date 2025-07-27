@@ -29,7 +29,7 @@ This is a PHP and MySQL-based system built for wholesale businesses. It helps ma
 - `record_sale.php` – Record product sales  
 - `report.php` – View reports  
 - `dta.php` – Database connection  
-- `sales_db.sql` – MySQL database file
+- `sale_system.sql` – MySQL database file
 
 ## 🚀 How to Run
 
